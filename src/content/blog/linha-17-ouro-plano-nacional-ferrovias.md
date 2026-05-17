@@ -1,17 +1,18 @@
 ---
 title: "Linha 17-Ouro e Plano Nacional de Ferrovias marcam virada tecnológica no Brasil"
 description: "Do monotrilho autônomo em São Paulo aos novos corredores de carga, o país volta a tratar os trilhos como infraestrutura estratégica."
-pubDate: "May 16 2026"
+pubDate: "2026-05-16"
 heroImage: "/hero/linha-17-ouro-plano-nacional-ferrovias.jpg"
 hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
 hero_license: "ai-generated"
-hero_source_url: "https://mundotrilhos.com"
 alt: "Monotrilho moderno elevado em ambiente urbano brasileiro, representando a Linha 17-Ouro e a retomada ferroviária"
 source_name: "Agência Gov, Agência SP, CNN Brasil e MASSA"
 source_url: "https://agenciagov.ebc.com.br/noticias/202401/novo-pac-garante-recursos-para-o-transporte-ferroviario-e-acelera-retomada-do-setor-no-brasil"
 tags: ["alta-velocidade", "monotrilho", "novo-pac", "brasil", "infraestrutura"]
-categoria_macro: "Trens"
+categoria_macro: "modalidade"
 lang: "pt-br"
+interlink_url: "https://railpost.news/blog/brazil-line-17-national-rail-plan/"
+interlink_lang: "en"
 author: "Redação Mundo Trilhos"
 draft: false
 ---

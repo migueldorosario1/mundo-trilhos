@@ -1,17 +1,18 @@
 ---
 title: "VLT de Brasília adota tecnologia APS para respeitar o Plano Piloto"
 description: "A solução de alimentação pelo solo elimina catenárias, preserva a paisagem tombada e recoloca a W3 no centro da mobilidade urbana da capital."
-pubDate: "May 16 2026"
+pubDate: "2026-05-16"
 heroImage: "/hero/vlt-brasilia-tecnologia-aps.jpg"
 hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
 hero_license: "ai-generated"
-hero_source_url: "https://mundotrilhos.com"
 alt: "VLT moderno circulando em avenida arborizada de Brasília sem rede aérea aparente"
 source_name: "Metrópoles, Via Trolebus, Agência Gov e CNN Brasil"
 source_url: "https://www.metropoles.com/distrito-federal/brasilia-em-trilhos-veja-novo-projeto-do-vlt-entre-a-w3-e-o-aeroporto"
 tags: ["vlt", "brasilia", "aps", "mobilidade-urbana", "patrimonio"]
-categoria_macro: "Transporte Urbano"
+categoria_macro: "modalidade"
 lang: "pt-br"
+interlink_url: "https://railpost.news/blog/brasilia-lrt-aps-technology/"
+interlink_lang: "en"
 author: "Redação Mundo Trilhos"
 draft: false
 ---
