@@ -18,16 +18,72 @@ import { Image } from 'astro:assets';
 		</div>
 		<div class="nav-links">
 			<div class="nav-item dropdown">
-				<button class="dropbtn">Início <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+				<button class="dropbtn">Brasil <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
 				<div class="dropdown-content">
-					<a href="/" class="submenu-title" style="text-decoration: none; display: block; font-weight: bold;">Início</a>
-					<a href="/about" class="submenu-title" style="text-decoration: none; display: block;">Quem Somos</a>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Nordeste <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/bahia">Bahia</a>
+							<a href="/tags/ceara">Ceará</a>
+							<a href="/tags/pernambuco">Pernambuco</a>
+							<a href="/tags/nordeste" style="font-weight: bold; font-size: 0.85rem;">Mais projetos...</a>
+						</div>
+					</div>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Norte <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/para">Pará</a>
+							<a href="/tags/amazonas">Amazonas</a>
+							<a href="/tags/norte" style="font-weight: bold; font-size: 0.85rem;">Mais projetos...</a>
+						</div>
+					</div>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Sudeste <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/sao-paulo">São Paulo</a>
+							<a href="/tags/rio-de-janeiro">Rio de Janeiro</a>
+							<a href="/tags/minas-gerais">Minas Gerais</a>
+							<a href="/tags/espirito-santo">Espírito Santo</a>
+						</div>
+					</div>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Sul <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/parana">Paraná</a>
+							<a href="/tags/santa-catarina">Santa Catarina</a>
+							<a href="/tags/rio-grande-do-sul">Rio Grande do Sul</a>
+						</div>
+					</div>
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Centro-Oeste <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/mato-grosso">Mato Grosso</a>
+							<a href="/tags/goias">Goiás</a>
+							<a href="/tags/distrito-federal">Distrito Federal</a>
+						</div>
+					</div>
 				</div>
 			</div>
 			
-            <div class="nav-item dropdown">
-                <button class="dropbtn">Trens & Urbano <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-                <div class="dropdown-content">
+			<div class="nav-item dropdown">
+				<button class="dropbtn">Mundo <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+				<div class="dropdown-content">
+					<div class="dropdown-submenu">
+						<span class="submenu-title">Américas <span>▶</span></span>
+						<div class="submenu-content">
+							<a href="/tags/america-sul">América do Sul</a>
+							<a href="/tags/america-norte">América do Norte</a>
+						</div>
+					</div>
+					<a href="/tags/asia" class="submenu-title" style="text-decoration: none; display: block; font-weight: normal;">Ásia</a>
+					<a href="/tags/europa" class="submenu-title" style="text-decoration: none; display: block; font-weight: normal;">Europa</a>
+					<a href="/tags/africa" class="submenu-title" style="text-decoration: none; display: block; font-weight: normal;">África</a>
+				</div>
+			</div>
+
+			<div class="nav-item dropdown">
+				<button class="dropbtn">Trilhos <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
+				<div class="dropdown-content">
 					<div class="dropdown-submenu">
 						<span class="submenu-title">Trens <span>▶</span></span>
 						<div class="submenu-content">
@@ -45,11 +101,6 @@ import { Image } from 'astro:assets';
 							<a href="/tags/monotrilho">Monotrilhos</a>
 						</div>
 					</div>
-                </div>
-            </div>
-            <div class="nav-item dropdown">
-                <button class="dropbtn">Mais <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
-                <div class="dropdown-content">
 					<div class="dropdown-submenu">
 						<span class="submenu-title">Economia & Dados <span>▶</span></span>
 						<div class="submenu-content">
@@ -58,18 +109,8 @@ import { Image } from 'astro:assets';
 							<a href="/tags/mapa-vlts">Mapa dos VLTs</a>
 						</div>
 					</div>
-					<div class="dropdown-submenu">
-						<span class="submenu-title">Geografia <span>▶</span></span>
-						<div class="submenu-content">
-							<a href="/tags/brasil">Brasil</a>
-							<a href="/tags/america-sul">América do Sul</a>
-							<a href="/tags/asia">Ásia</a>
-							<a href="/tags/europa">Europa</a>
-							<a href="/tags/mundo">Mundo</a>
-						</div>
-					</div>
-                </div>
-            </div>
+				</div>
+			</div>
 		</div>
 	</nav>
 </header>
