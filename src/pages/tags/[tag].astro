@@ -34,7 +34,8 @@ const tagMap = {
 		subtitle: 'Veículos Leves sobre Trilhos (VLT)',
 		description: 'Acompanhe as principais novidades, inovações tecnológicas e projetos de VLTs que transformam a mobilidade urbana nas cidades brasileiras e globais.',
 		image: '/images/tags/vlt.png',
-		color: 'linear-gradient(135deg, #1e3c72, #2a5298)'
+		color: 'linear-gradient(135deg, #1e3c72, #2a5298)',
+		bgPosition: 'center 25%'
 	},
 	'alta-velocidade': {
 		title: 'Alta Velocidade',
@@ -107,7 +108,8 @@ const meta = tagMap[tag] || {
 	subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
 	description: `Notícias e análises aprofundadas sobre ${tag.split('-').join(' ')} no portal Mundo Trilhos.`,
 	image: '/images/tags/default.png',
-	color: 'linear-gradient(135deg, #2f3640, #57606f)'
+	color: 'linear-gradient(135deg, #2f3640, #57606f)',
+	bgPosition: 'center'
 };
 ---
 
@@ -297,7 +299,7 @@ const meta = tagMap[tag] || {
 		<Header />
 		<main>
 			<div class="tag-hero">
-				<div class="tag-hero-bg" style={`background-image: url('${meta.image}');`}></div>
+				<div class="tag-hero-bg" style={`background-image: url('${meta.image}'); background-position: ${meta.bgPosition || 'center'};`}></div>
 				<div class="tag-hero-overlay"></div>
 				<div class="tag-hero-content">
 					<span class="tag-title">{meta.title}</span>
