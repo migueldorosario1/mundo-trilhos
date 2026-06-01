@@ -1,0 +1,33 @@
+---
+title: "Plano ferroviário do governo promete revolução logística enquanto FIOL acumula atrasos na Bahia"
+description: "Plano ferroviário do governo promete revolução logística enquanto FIOL acumula atrasos na Bahia"
+pubDate: "2026-05-31"
+heroImage: "/hero/plano-ferroviario-do-governo-promete-revolucao-logistica-enquanto-fiol-acumula-a.jpg"
+hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
+hero_license: "ai-generated"
+alt: "Ilustração editorial sobre Plano ferroviário do governo promete revolução logística enquanto FIOL acumula atrasos na Bahia"
+source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Estudos e Projetos Ferroviários - INFRA S.A."
+source_url: "https://agenciagov.ebc.com.br/noticias/202401/novo-pac-garante-recursos-para-o-transporte-ferroviario-e-acelera-retomada-do-setor-no-brasil"
+tags: ["infraestrutura", "brasil"]
+categoria_macro: "carga"
+lang: "pt-br"
+author: "Redação Mundo Trilhos"
+draft: false
+---
+A ambição bilionária para o modal ferroviário esbarra em um ciclo vicioso de promessas e execução fragmentada, tendo a Ferrovia de Integração Oeste-Leste como símbolo máximo do contraste entre planejamento e realidade.
+
+<p>O ministro dos Transportes, Renan Filho, apresentou ao presidente Lula uma carteira de projetos que mobiliza dezenas de bilhões de reais em 15 ativos ferroviários, tentando reverter um quadro histórico de abandono dos trilhos no país. O Plano Nacional de Ferrovias, nos ajustes finais para ser lançado, é um mapa ambicioso que inclui desde o Anel Ferroviário do Sudeste até o polêmico Ferrogrão, passando por prolongamentos e novas concessões.</p><p>Enquanto a China adiciona 2.400 quilômetros de ferrovia de alta velocidade à sua malha a cada ano, o Brasil precisou de 36 anos para concluir uma única ferrovia de carga, a Norte-Sul, um corredor de 2.257 quilômetros que só foi inteiramente finalizado em 2023. Esse abismo entre a velocidade asiática e a crônica lentidão brasileira é o pano de fundo perfeito para entender o drama de um projeto específico: a Ferrovia de Integração Oeste-Leste, a FIOL.</p>
+
+<p>A FIOL é um empreendimento de 1.527 quilômetros de extensão em bitola larga, projetado para conectar o Porto Sul, em Ilhéus, no litoral baiano, até a Ferrovia Norte-Sul, em Figueirópolis, no Tocantins. Segundo a Infra S.A., empresa pública responsável pelo planejamento, sua função é estabelecer uma alternativa mais econômica para os fluxos de carga de longa distância, especialmente minérios e granéis sólidos, criando um corredor logístico competitivo para desafogar as rodovias.</p><p>A realidade da obra, no entanto, é um mosaico de ritmos que escancara a dificuldade brasileira de executar projetos de grande escala. A ferrovia foi dividida em três trechos, e cada um deles conta uma história diferente de atraso e incerteza.</p>
+
+<p>O Trecho 1, que liga Caetité a Ilhéus ao longo de 537 quilômetros, atravessando 19 municípios, está sob responsabilidade da Bahia Mineração (Bamin) e teve suas obras retomadas como a primeira ação do Novo PAC em 2023. O governo federal alocou R$ 1,5 bilhão em 127 quilômetros do lote inicial, mas mesmo com o apelo público de Lula por maior celeridade, o prazo de conclusão permanece projetado para 2027.</p><p>O Trecho 2, com 485 quilômetros entre Caetité e Barreiras, no oeste baiano, registrava 65% de avanço físico após o lançamento de um novo edital em setembro de 2025, sinalizando algum progresso tangível. Já o Trecho 3, que deveria seguir de Barreiras até Figueirópolis, ainda aguarda a licença de instalação, o que significa que as obras simplesmente não começaram, repousando sobre pilhas de Estudos de Viabilidade Técnica, Econômica e Ambiental concluídos.</p>
+
+<p>Este quadro é o sintoma de uma patologia nacional da infraestrutura. O Novo PAC, conforme detalhado pela <a href="https://agenciagov.ebc.com.br/noticias/202401/novo-pac-garante-recursos-para-o-transporte-ferroviario-e-acelera-retomada-do-setor-no-brasil" target="_blank">Agência Gov</a>, garante R$ 94,2 bilhões para o modal ferroviário até 2026, com a meta de elevar a participação dos trilhos na matriz de transporte de carga até 2035. A contradição, porém, é dura: o país investe pouco mais de 2% do PIB em infraestrutura, metade do patamar considerado necessário por especialistas, e o setor privado já responde pela maior fatia dos aportes, um sinal de que o Estado não tem musculatura para bancar seus próprios sonhos.</p>
+
+<p>A Transnordestina, outro projeto prioritário, é a prova viva desse paradoxo. Com 1.200 quilômetros de extensão entre Eliseu Martins, no Piauí, e o Porto de Pecém, no Ceará, a ferrovia consumiu R$ 175 milhões em 2023 e atingiu 60% de avanço físico, com uma previsão de entrega que oscila entre 2026 e 2027. O investimento é real, as máquinas estão no canteiro, mas o prazo se estende por quase duas décadas desde sua concepção original, em um ciclo que a FIOL parece fadada a repetir.</p>
+
+<p>O plano ferroviário do governo, detalhado em reportagem da <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/com-investimento-de-r-100-bi-governo-lancara-plano-nacional-de-ferrovias/" target="_blank">CNN Brasil</a>, inclui o Corredor Leste-Oeste — que unirá a FIOL e a Ferrovia de Integração do Centro-Oeste (Fico) em 2.400 quilômetros —, o prolongamento da Norte-Sul até o porto de Vila do Conde, no Pará, e o Anel Ferroviário do Sudeste. A União planeja bancar de 20% a 30% dos investimentos para garantir a viabilidade econômica, um modelo que depende crucialmente de acordos bilionários de repactuação de concessões, como os R$ 17 bilhões já acertados com a Vale para as estradas de ferro Carajás e Vitória-Minas.</p>
+
+<p>O custo logístico brasileiro, estimado em percentual do PIB bem acima dos padrões internacionais, é um peso concreto que torna o sucesso desses projetos uma questão de soberania econômica. A movimentação ferroviária de cargas cresceu 4,2% em 12 meses entre outubro de 2022 e outubro de 2023, um sopro de vitalidade que justifica o aquecimento do mercado de concessões, mas que ainda é insuficiente para mudar a matriz de transporte de um país que insiste em mover sua riqueza sobre pneus.</p>
+
+<p>Se a FIOL conseguir entregar seus 537 quilômetros do Trecho 1 no prazo, o feito representará um sinal de credibilidade para toda a carteira de projetos. Se fracassar, o ciclo de promessas ferroviárias continuará a ditar o ritmo de um país onde as obras duram uma geração, e o plano bilionário se transformará em mais um capítulo da história das oportunidades adiadas.</p>
