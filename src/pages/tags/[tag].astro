@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -7,27 +6,8 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
-export async function getStaticPaths() {
-	const allPosts = await getCollection('blog');
-	const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat())];
-	
-	return uniqueTags.map((tag) => {
-		const filteredPosts = allPosts.filter((post) => post.data.tags?.includes(tag));
-		return {
-			params: { tag },
-			props: { posts: filteredPosts },
-		};
-	});
-}
-
-const { tag } = Astro.params;
-const { posts } = Astro.props;
-
-// Sort by date
-const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-// Premium Tag Mapping for Mundo Trilhos
-const tagMap = {
+// ── TagMap completo: TODAS as tags do menu + tópicos ──
+const tagMap: Record<string, any> = {
 	// Modais de Transporte
 	'vlt': {
 		title: 'Mobilidade Urbana',
@@ -79,7 +59,58 @@ const tagMap = {
 		image: '/images/tags/default.png',
 		color: 'linear-gradient(135deg, #7b4397, #dc2430)'
 	},
-	// Regiões / Geográficos
+	// Regiões / Geográficos — Nordeste
+	'bahia': {
+		title: 'Bahia',
+		subtitle: 'Ferrovias da Bahia',
+		description: 'FIOL, FNS e a retomada ferroviária baiana. Acompanhamento de obras, concessões e investimentos no estado.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1a472a, #2e8b57)'
+	},
+	'ceara': {
+		title: 'Ceará',
+		subtitle: 'Ferrovias do Ceará',
+		description: 'Projetos ferroviários no Ceará: VLTs, trens de carga e integração regional do Nordeste.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1e3a5f, #3a7bd5)'
+	},
+	'pernambuco': {
+		title: 'Pernambuco',
+		subtitle: 'Ferrovias de Pernambuco',
+		description: 'Mobilidade e logística ferroviária em Pernambuco: metrô do Recife, carga e expansões previstas.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #4a148c, #7b1fa2)'
+	},
+	'nordeste': {
+		title: 'Região Nordeste',
+		subtitle: 'Ferrovias do Nordeste',
+		description: 'A transnordestina e as ferrovias que integram os estados do Nordeste brasileiro.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #e65100, #ff9800)'
+	},
+	// Norte
+	'para': {
+		title: 'Pará',
+		subtitle: 'Ferrovias do Pará',
+		description: 'EF-170 (Ferrogrão),EF-170 e a logística ferroviária paraense que conecta o interior aos portos do Atlântico.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #0d3b1e, #2d6a4f)'
+	},
+	'amazonas': {
+		title: 'Amazonas',
+		subtitle: 'Ferrovias da Amazônia',
+		description: 'Projetos de integração ferroviária na Amazônia e conectividade para a região norte.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #004d40, #00796b)'
+	},
+	'norte': {
+		title: 'Região Norte',
+		subtitle: 'Ferrovias do Norte',
+		description: 'Integração ferroviária na região Norte do Brasil e projetos de desenvolvimento sustentável.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1b5e20, #388e3c)'
+	},
+	// Sudeste
 	'sao-paulo': {
 		title: 'Estado de São Paulo',
 		subtitle: 'São Paulo Ferroviário',
@@ -94,14 +125,152 @@ const tagMap = {
 		image: '/images/tags/default.png',
 		color: 'linear-gradient(135deg, #0f2027, #203a43, #2c5364)'
 	},
+	'minas-gerais': {
+		title: 'Minas Gerais',
+		subtitle: 'Ferrovias de Minas Gerais',
+		description: 'O coração logístico do Brasil: ferrovias de minério, passageiros e a malha integrada mineira.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #3e2723, #6d4c41)'
+	},
+	'espirito-santo': {
+		title: 'Espírito Santo',
+		subtitle: 'Ferrovias do Espírito Santo',
+		description: 'A ligação ferroviária entre o interior e os portos capixabas. Logística de minério e carga geral.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1a237e, #3949ab)'
+	},
+	// Sul
+	'parana': {
+		title: 'Paraná',
+		subtitle: 'Ferrovias do Paraná',
+		description: 'A malha ferroviária paranaense: integração com portos, graneis e mobilidade urbana em Curitiba.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1b3a4b, #2c5364)'
+	},
+	'santa-catarina': {
+		title: 'Santa Catarina',
+		subtitle: 'Ferrovias de Santa Catarina',
+		description: 'Ferrovias catarinenses: logística portuária, integração regional e projetos de mobilidade.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #0d3b66, #1565c0)'
+	},
+	'rio-grande-do-sul': {
+		title: 'Rio Grande do Sul',
+		subtitle: 'Ferrovias do Rio Grande do Sul',
+		description: 'A história ferroviária gaúcha e os projetos de retomada do modal no estado mais ao sul do Brasil.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1a1a2e, #16213e)'
+	},
+	// Centro-Oeste
+	'mato-grosso': {
+		title: 'Mato Grosso',
+		subtitle: 'Ferrovias de Mato Grosso',
+		description: 'A soja sobre trilhos: ferrovias de carga que integram o agronegócio mato-grossense aos portos.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #2e7d32, #66bb6a)'
+	},
+	'goias': {
+		title: 'Goiás',
+		subtitle: 'Ferrovias de Goiás',
+		description: 'Projetos ferroviários em Goiás e a integração do Centro-Oeste às principais malhas nacionais.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #bf360c, #e64a19)'
+	},
+	'distrito-federal': {
+		title: 'Distrito Federal',
+		subtitle: 'Ferrovias do DF',
+		description: 'VLT de Brasília, projetos de mobilidade e a ferrovia no coração do país.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #006064, #00838f)'
+	},
+	// Brasil & Américas
 	'brasil': {
 		title: 'Infraestrutura Nacional',
 		subtitle: 'Ferrovias do Brasil',
 		description: 'A política nacional de transportes, o Novo PAC, investimentos federais e a grande retomada do modal ferroviário no país.',
 		image: '/images/tags/default.png',
 		color: 'linear-gradient(135deg, #11998e, #38ef7d)'
-	}
+	},
+	'america-sul': {
+		title: 'América do Sul',
+		subtitle: 'Ferrovias Sul-Americanas',
+		description: 'Bioceânica, trens argentinos, chilenos, peruanos e a integração ferroviária do continente.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #4a148c, #7b1fa2)'
+	},
+	'america-norte': {
+		title: 'América do Norte',
+		subtitle: 'Ferrovias Norte-Americanas',
+		description: 'Amtrak, trens de carga norte-americanos e as maiores redes ferroviárias do continente.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #1a237e, #283593)'
+	},
+	// Tópicos adicionais
+	'infraestrutura': {
+		title: 'Infraestrutura',
+		subtitle: 'Infraestrutura Ferroviária',
+		description: 'Obras, concessões, leilões e investimentos em infraestrutura ferroviária no Brasil e no mundo.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #37474f, #546e7a)'
+	},
+	'novo-pac': {
+		title: 'Novo PAC',
+		subtitle: 'Programa de Aceleração do Crescimento',
+		description: 'As obras do Novo PAC com foco em ferrovias, investimentos federais e projetos estruturantes.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #004d40, #00695c)'
+	},
+	'mobilidade-urbana': {
+		title: 'Mobilidade Urbana',
+		subtitle: 'Transporte Urbano sobre Trilhos',
+		description: 'Metrôs, VLTs, trens urbanos e as soluções de mobilidade sobre trilhos para as grandes cidades.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #263238, #455a64)'
+	},
+	'brasilia': {
+		title: 'Brasília',
+		subtitle: 'Ferrovias do Distrito Federal',
+		description: 'Projetos de mobilidade em Brasília: VLT, metrô e integração ferroviária no Planalto Central.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #004d40, #00796b)'
+	},
+	'patrimonio': {
+		title: 'Patrimônio',
+		subtitle: 'Patrimônio Ferroviário',
+		description: 'Preservação da história ferroviária, estações históricas, Maria Fumaça e memória dos trilhos.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #5d4037, #8d6e63)'
+	},
+	'aps': {
+		title: 'APS',
+		subtitle: 'Alimentação pelo Solo',
+		description: 'Tecnologia APS (Alimentação pelo Solo) em VLTs e bondes: inovação sem catenária aérea.',
+		image: '/images/tags/default.png',
+		color: 'linear-gradient(135deg, #33691e, #558b2f)'
+	},
 };
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection('blog');
+	// Gera páginas para TODAS as tags do tagMap (mesmo sem posts)
+	// + tags que aparecem nos posts
+	const tagsFromPosts = [...new Set(allPosts.map((post) => post.data.tags || []).flat())];
+	const allTags = [...new Set([...Object.keys(tagMap), ...tagsFromPosts])];
+
+	return allTags.map((tag) => {
+		const filteredPosts = allPosts.filter((post) => post.data.tags?.includes(tag));
+		return {
+			params: { tag },
+			props: { posts: filteredPosts },
+		};
+	});
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+// Sort by date
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const meta = tagMap[tag] || {
 	title: 'Tag do Mundo Trilhos',
@@ -265,6 +434,24 @@ const meta = tagMap[tag] || {
 				transform: scale(1.02);
 			}
 
+			/* Estado vazio */
+			.empty-state {
+				text-align: center;
+				padding: 4rem 2rem;
+				color: #7f8c8d;
+				font-family: 'Outfit', sans-serif;
+			}
+			.empty-state h3 {
+				font-size: 1.5rem;
+				color: #2f3640;
+				margin-bottom: 0.5rem;
+			}
+			.empty-state p {
+				font-size: 1rem;
+				max-width: 500px;
+				margin: 0 auto;
+			}
+
 			@media (max-width: 768px) {
 				main {
 					padding: 0 1rem;
@@ -309,25 +496,33 @@ const meta = tagMap[tag] || {
 			</div>
 			
 			<section>
-				<ul>
-					{
-						sortedPosts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt={post.data.title} />
-									)}
-									<div class="post-card-content">
-										<h4 class="post-title">{post.data.title}</h4>
-										<p class="date">
-											<FormattedDate date={post.data.pubDate} />
-										</p>
-									</div>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+				{sortedPosts.length > 0 ? (
+					<ul>
+						{
+							sortedPosts.map((post) => (
+								<li>
+									<a href={`/blog/${post.id}/`}>
+										{post.data.heroImage && (
+											<img src={post.data.heroImage} alt={post.data.title} />
+										)}
+										<div class="post-card-content">
+											<h4 class="post-title">{post.data.title}</h4>
+											<p class="date">
+												<FormattedDate date={post.data.pubDate} />
+											</p>
+										</div>
+									</a>
+								</li>
+							)
+						)
+						}
+					</ul>
+				) : (
+					<div class="empty-state">
+						<h3>Em breve</h3>
+						<p>Ainda não temos artigos sobre <strong>{meta.subtitle}</strong>. Volte em breve — novas publicações chegam todos os dias!</p>
+					</div>
+				)}
 			</section>
 		</main>
 		<Footer />
