@@ -3,9 +3,9 @@ title: "VLT de Brasília enterra fios e rompe impasse técnico do tombamento his
 description: "VLT de Brasília enterra fios e rompe impasse técnico do tombamento histórico no Plano Piloto"
 pubDate: "2026-06-01"
 heroImage: "/hero/vlt-de-brasilia-enterra-fios-e-rompe-impasse-tecnico-do-tombamento-historico-no-.jpg"
-hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
-hero_license: "ai-generated"
-alt: "Ilustração editorial sobre VLT de Brasília enterra fios e rompe impasse técnico do tombamento histórico no Plano Piloto"
+hero_credit: "Mariordo (Mario Roberto Durán Ortiz) / Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "VLT Carioca circulando em via arborizada no Rio de Janeiro"
 source_name: "Brasil ampliou em somente 11% a rede de trens e metrô desde a Copa, Brasília em trilhos: veja novo projeto do VLT entre a W3 e o aeroporto, Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov"
 source_url: "https://www.mobilize.org.br/noticias/13012/brasil-ampliou-em-somente-11-a-rede-de-trens-e-metro-desde-a-copa.html"
 tags: ["infraestrutura", "brasil"]

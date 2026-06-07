@@ -3,9 +3,9 @@ title: "VLT de Brasília supera tombamento com alimentação pelo solo e adota t
 description: "VLT de Brasília supera tombamento com alimentação pelo solo e adota tecnologia consagrada do Rio"
 pubDate: "2026-05-31"
 heroImage: "/hero/vlt-de-brasilia-supera-tombamento-com-alimentacao-pelo-solo-e-adota-tecnologia-c.jpg"
-hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
-hero_license: "ai-generated"
-alt: "Ilustração editorial sobre VLT de Brasília supera tombamento com alimentação pelo solo e adota tecnologia consagrada do Rio"
+hero_credit: "Fernando Frazão/Agência Brasil / Wikimedia Commons"
+hero_license: "cc-by"
+alt: "Viagem inaugural do VLT Carioca no Rio de Janeiro"
 source_name: "Brasil ampliou em somente 11% a rede de trens e metrô desde a Copa, Brasília em trilhos: veja novo projeto do VLT entre a W3 e o aeroporto, Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov"
 source_url: "https://www.mobilize.org.br/noticias/13012/brasil-ampliou-em-somente-11-a-rede-de-trens-e-metro-desde-a-copa.html"
 tags: ["infraestrutura", "brasil"]

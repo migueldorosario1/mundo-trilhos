@@ -3,9 +3,9 @@ title: "Brasília substitui fiação aérea por alimentação pelo solo e destra
 description: "Brasília substitui fiação aérea por alimentação pelo solo e destrava VLT bilionário entre a W3 e o aeroporto"
 pubDate: "2026-05-31"
 heroImage: "/hero/brasilia-substitui-fiacao-aerea-por-alimentacao-pelo-solo-e-destrava-vlt-biliona.jpg"
-hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
-hero_license: "ai-generated"
-alt: "Ilustração editorial sobre Brasília substitui fiação aérea por alimentação pelo solo e destrava VLT bilionário entre a W3 e o aeroporto"
+hero_credit: "Mariordo (Mario Roberto Durán Ortiz) / Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Composições do VLT prontas para entrar em operação"
 source_name: "Brasil ampliou em somente 11% a rede de trens e metrô desde a Copa, Brasília em trilhos: veja novo projeto do VLT entre a W3 e o aeroporto, Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov"
 source_url: "https://www.mobilize.org.br/noticias/13012/brasil-ampliou-em-somente-11-a-rede-de-trens-e-metro-desde-a-copa.html"
 tags: ["infraestrutura", "brasil"]

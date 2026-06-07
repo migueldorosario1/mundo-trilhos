@@ -3,9 +3,9 @@ title: "VLT de Brasília dribla tombamento do Iphan com alimentação elétrica 
 description: "VLT de Brasília dribla tombamento do Iphan com alimentação elétrica por solo e avança rumo ao aeroporto"
 pubDate: "2026-05-31"
 heroImage: "/hero/vlt-de-brasilia-dribla-tombamento-do-iphan-com-alimentacao-eletrica-por-solo-e-a.jpg"
-hero_credit: "Imagem gerada por IA a partir de briefing editorial do acervo Mundo Trilhos"
-hero_license: "ai-generated"
-alt: "Ilustração editorial sobre VLT de Brasília dribla tombamento do Iphan com alimentação elétrica por solo e avança rumo ao aeroporto"
+hero_credit: "Rjcastillo / Wikimedia Commons"
+hero_license: "cc-by"
+alt: "Veículo Leve sobre Trilhos (VLT Carioca) circulando no centro do Rio de Janeiro"
 source_name: "Brasil ampliou em somente 11% a rede de trens e metrô desde a Copa, Brasília em trilhos: veja novo projeto do VLT entre a W3 e o aeroporto, Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov"
 source_url: "https://www.mobilize.org.br/noticias/13012/brasil-ampliou-em-somente-11-a-rede-de-trens-e-metro-desde-a-copa.html"
 tags: ["infraestrutura", "brasil"]
