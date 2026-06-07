@@ -1,5 +1,9 @@
 ---
 title: "Maglev japonês desafia limites enquanto Canadá enfrenta barreiras em projetos de alta velocidade"
+heroImage: "/images/tags/default.png"
+hero_credit: "Acervo Mundo Trilhos"
+hero_license: "copyright"
+alt: "Imagem ilustrativa para a categoria infraestrutura do portal Mundo Trilhos"
 description: "Maglev japonês desafia limites enquanto Canadá enfrenta barreiras em projetos de alta velocidade"
 pubDate: "2026-06-07"
 source_name: "Canada Wants High-Speed Rail. Megaproject Reality Wants a Word. - CleanTechnica, Japão surpreende o MUNDO ao investir US$ 64 bilhões e apostar em tecnologia pioneira de levitação magnética em Megaprojeto de trem capaz de alcançar 603 km/h - CPG Click Petróleo e Gás, High-speed rail and AI: Transforming US infrastructure | Siemens"
@@ -8,8 +12,7 @@ tags: ["infraestrutura", "brasil"]
 categoria_macro: "infraestrutura"
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
-draft: false
----
+draft: false---
 A tecnologia de levitação magnética no Japão redefine o transporte, enquanto o Canadá luta com desafios estruturais em seus projetos de alta velocidade.
 
 Toda grande cidade revela sua inteligência pelo modo como desloca as pessoas. No Japão, essa inteligência se manifesta no ambicioso projeto do Chuo Shinkansen, que utiliza a levitação magnética supercondutora para criar um dos sistemas de transporte mais avançados do mundo. Desenvolvido pela Central Japan Railway Company, o maglev japonês atingiu impressionantes 603 km/h em testes realizados em 2015. Esta tecnologia permite que os trens flutuem a 10 cm acima dos trilhos, eliminando o atrito e permitindo velocidades que seriam impossíveis para trens convencionais.

@@ -1,5 +1,9 @@
 ---
 title: "Grand Paris Express: a engenharia do megaprojeto que redesenha Paris com 200 km de metrô automático"
+heroImage: "/images/tags/metro.png"
+hero_credit: "Acervo Mundo Trilhos"
+hero_license: "copyright"
+alt: "Imagem ilustrativa para a categoria metro do portal Mundo Trilhos"
 description: "Grand Paris Express: a engenharia do megaprojeto que redesenha Paris com 200 km de metrô automático"
 pubDate: "2026-06-06"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, Metrôs do futuro: 5 tecnologias que vão transformar sua viagem diária - Correio Braziliense - Aqui"
@@ -8,8 +12,7 @@ tags: ["infraestrutura", "brasil"]
 categoria_macro: "metro"
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
-draft: false
----
+draft: false---
 US$ 45 bilhões, 68 estações subterrâneas e túneis a 52 metros de profundidade: o maior projeto de infraestrutura da Europa está redefinindo a capital francesa.
 
 <p>Toda grande cidade revela sua inteligência pelo modo como desloca as pessoas. Paris decidiu comprovar essa máxima com números que desafiam a imaginação: 200 quilômetros de novos trilhos, 68 estações inéditas e um orçamento de US$ 45 bilhões para construir o que já é considerado o maior projeto de infraestrutura urbana da Europa.</p>
