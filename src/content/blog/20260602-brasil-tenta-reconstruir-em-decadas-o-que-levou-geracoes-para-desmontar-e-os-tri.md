@@ -1,0 +1,45 @@
+---
+title: "Brasil tenta reconstruir em décadas o que levou gerações para desmontar — e os trilhos voltam a cortar a Bahia"
+description: "Brasil tenta reconstruir em décadas o que levou gerações para desmontar — e os trilhos voltam a cortar a Bahia"
+pubDate: "2026-06-02"
+source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Quais são os Projetos de ferrovias no brasil em andamento? - MASSA"
+source_url: "https://agenciagov.ebc.com.br/noticias/202401/novo-pac-garante-recursos-para-o-transporte-ferroviario-e-acelera-retomada-do-setor-no-brasil"
+tags: ["infraestrutura", "brasil"]
+categoria_macro: "vlt"
+lang: "pt-br"
+author: "Redação Mundo Trilhos"
+draft: false
+---
+Com R$ 94,2 bilhões no Novo PAC e mais R$ 100 bilhões no Plano Nacional de Ferrovias, o Brasil aposta na FIOL e em cinco grandes corredores para reverter um abandono histórico que custou caro ao país.
+
+<p>O ministro dos Transportes do Brasil, Renan Filho, tem repetido uma frase que deveria envergonhar qualquer planejador de infraestrutura: "Hoje o Brasil exporta por ferrovias somente 17% do que produz. Nossa meta é elevar esse índice para 40% até 2035." Dois números que resumem, com precisão cirúrgica, a dimensão do erro histórico cometido ao longo de seis décadas de desinvestimento sistemático no modal ferroviário.</p>
+
+<p>Nos anos 1960, a malha ferroviária brasileira atingiu seu auge com 38 mil quilômetros de trilhos, mais de oito vezes a distância do Oiapoque ao Chuí. O que restou depois foi uma fração disso, resultado de décadas de erradicação de ramais, abandono de via permanente e uma aposta cega no transporte rodoviário que nunca se pagou integralmente em termos logísticos, ambientais ou de competitividade.</p>
+
+<p>O paradoxo é brutal: um país de dimensões continentais, com uma das maiores produções agrícolas e minerais do planeta, que insiste em mover granéis sólidos sobre asfalto. O custo desse equívoco aparece no preço da soja no porto, no frete do minério, na fila de caminhões que paralisa rodovias federais toda vez que a safra explode.</p>
+
+<p>A tentativa de reversão desse quadro ganhou escala institucional com o Novo PAC, que elencou projetos ferroviários como prioridade nacional e prevê um investimento de R$ 94,2 bilhões até 2026. Paralelamente, conforme <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/com-investimento-de-r-100-bi-governo-lancara-plano-nacional-de-ferrovias/" target="_blank">revelou a CNN Brasil</a>, o Plano Nacional de Ferrovias estrutura mais R$ 100 bilhões em cinco grandes corredores, com expansão de 4.700 quilômetros de malha e um pipeline de leilões que pretende dar previsibilidade ao setor privado.</p>
+
+<p>O modelo financeiro prevê que a União assuma entre 20% e 30% dos investimentos em cada corredor, justamente para viabilizar economicamente empreendimentos que, por natureza, não geram receita ao concessionário até que uma extensão mínima de trilhos esteja em operação. Esse é o ponto de estrangulamento histórico das concessões ferroviárias brasileiras: o capital privado não entra sozinho onde o retorno demora décadas para aparecer.</p>
+
+<p>O epicentro mais simbólico desse renascimento é a Bahia. A Ferrovia de Integração Oeste-Leste, a FIOL, tecnicamente denominada EF-334, atravessa o estado com mais de 1.500 quilômetros de extensão total, dividida em três trechos entre Ilhéus, no litoral sul baiano, e Figueirópolis, no Tocantins. O trecho 1F, com cerca de 127 quilômetros, recebeu R$ 1,5 bilhão em investimentos e concentra obras em andamento. O trecho 2, entre Barreiras e Caetité, com 485 quilômetros de extensão, já registra 65% de avanço físico segundo dados da Infra S.A.</p>
+
+<p>A FIOL não é apenas uma ferrovia. É um corredor logístico intermodal que conecta o porto de Ilhéus, porta de saída do minério de ferro do sul da Bahia e dos grãos do oeste baiano, ao interior profundo do país, onde a produção agrícola cresce em ritmo acelerado sem ter por onde escoar com eficiência. Quando concluída, a ferrovia se conectará à Ferrovia Norte-Sul em Figueirópolis, formando o chamado Corredor Leste-Oeste, que junto com a Ferrovia de Integração do Centro-Oeste somará aproximadamente 2.400 quilômetros de trilhos contínuos cruzando o Brasil de leste a oeste.</p>
+
+<p>A FICO, com 888 quilômetros no trecho entre Mara Rosa, em Goiás, e Lucas do Rio Verde, no Mato Grosso, já tem o EVTEA, o Estudo de Viabilidade Técnica, Econômica e Ambiental, e o Projeto Básico concluídos pela Infra S.A., empresa pública vinculada ao Ministério dos Transportes. Esses documentos são a base técnica que precede qualquer leilão de concessão ferroviária, e sua existência significa que o projeto está maduro o suficiente para atrair capital privado com segurança jurídica.</p>
+
+<p>A Ferrovia Norte-Sul representa um dos avanços mais concretos do período recente: 2.257 quilômetros de trilhos conectando o porto de Itaqui, no Maranhão, ao sistema ferroviário do Centro-Sul do país, atravessando quatro regiões brasileiras e abrindo saída competitiva para a produção de Goiás, Mato Grosso e Minas Gerais. O prolongamento previsto de 477 quilômetros até o porto de Vila do Conde, no Pará, vai criar uma alternativa logística para o escoamento de grãos pelo Norte, reduzindo a dependência da Estrada de Ferro Carajás, da Vale, que opera prioritariamente para minério.</p>
+
+<p>Falando em Vale: a repactuação de concessões foi o mecanismo que o governo Lula encontrou para financiar parte do plano sem depender exclusivamente do orçamento público. A mineradora se comprometeu a pagar até R$ 17 bilhões pela extensão das concessões da Estrada de Ferro Carajás e da Estrada de Ferro Vitória-Minas. Esses recursos entram no caixa do Estado e são redirecionados para viabilizar os novos corredores, uma engenharia financeira que mistura repactuação de contratos com pipeline de leilões e aportes diretos da União.</p>
+
+<p>O Anel Ferroviário do Sudeste, com aproximadamente 300 quilômetros entre Vitória, no Espírito Santo, e Itaboraí, no Rio de Janeiro, é outro projeto do plano que merece atenção técnica. Ele conectará a malha da Estrada de Ferro Vitória-Minas à rede operada pela MRS Logística, criando uma interligação que hoje não existe e que obriga o transporte de carga a fazer desvios custosos ou migrar para o modal rodoviário em trechos críticos do Sudeste.</p>
+
+<p>A Transnordestina segue como o projeto mais carregado de simbolismo político e de atraso acumulado. Prometida para 2010, a ferrovia de mais de 1.200 quilômetros entre Eliseu Martins, no Piauí, e o porto de Pecém, no Ceará, acumula investimentos bilionários ao longo de sua história e registra avanço físico que, segundo dados mais recentes da Transnordestina Logística S.A., ainda não ultrapassou a metade da obra concluída. Quando pronta, cortará 53 municípios do Piauí, Ceará e Pernambuco, transportando grãos, fertilizantes, cimento, combustíveis e minério, uma transformação logística para uma região que historicamente ficou de fora dos grandes corredores de escoamento.</p>
+
+<p>A Ferrogrão, com 933 quilômetros entre Sinop, no Mato Grosso, e Itaituba, no Pará, é o projeto mais complexo do portfólio. Seu avanço depende de uma conciliação no Supremo Tribunal Federal, acionado por conta dos potenciais impactos em unidades de conservação ao longo do traçado. É o tipo de tensão que revela o quanto o planejamento ferroviário brasileiro ainda precisa amadurecer na interface com o licenciamento ambiental, um gargalo que não se resolve com volume de investimento, mas com governança e tempo.</p>
+
+<p>O setor ferroviário emprega atualmente 66 mil trabalhadores, segundo a Associação Brasileira da Indústria Ferroviária, a Abifer. A movimentação de cargas em junho de 2023 cresceu 7,2% em relação ao mesmo mês do ano anterior, com 47,6 milhões de toneladas transportadas. Em 2023, foram assinados 15 novos contratos de autorizações ferroviárias em oito estados, sinalizando que o pipeline de leilões começa a sair do papel.</p>
+
+<p>O VLT do Rio de Janeiro, sistema urbano sobre trilhos que opera no centro da cidade, aparece nesse contexto como um contraponto instrutivo. Enquanto os grandes corredores de carga dominam o debate sobre ferrovias no Brasil, o transporte ferroviário urbano de passageiros segue sendo tratado como questão secundária, quando deveria ser a outra face da mesma política de mobilidade. Um país que não move sua carga com eficiência e também não move seus trabalhadores com dignidade está pagando duas vezes pelo mesmo erro histórico.</p>
+
+<p>Reconstruir em duas décadas o que levou gerações para desmontar é um desafio de engenharia, de finanças e de vontade política simultâneos. O Brasil tem os projetos, tem parte do financiamento estruturado e tem a urgência econômica como argumento. O que ainda falta, e o que os próximos leilões vão revelar, é se o país tem a consistência institucional para não repetir, desta vez, o abandono que transformou 38 mil quilômetros de trilhos em uma memória de arquivo.</p>
