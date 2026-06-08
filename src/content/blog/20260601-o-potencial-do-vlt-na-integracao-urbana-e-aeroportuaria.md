@@ -2,7 +2,7 @@
 title: "O Potencial do VLT na Integração Urbana e Aeroportuária"
 heroImage: "/images/tags/vlt.png"
 hero_credit: "Acervo Mundo Trilhos"
-hero_license: "copyright"
+hero_license: "own"
 alt: "Imagem ilustrativa para a categoria vlt do portal Mundo Trilhos"
 description: "O Potencial do VLT na Integração Urbana e Aeroportuária"
 pubDate: "2026-06-01"
@@ -12,7 +12,8 @@ tags: ["infraestrutura", "brasil"]
 categoria_macro: "vlt"
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
-draft: false---
+draft: false
+---
 A integração de modais através do VLT demonstra o caminho para uma mobilidade urbana eficiente e sustentável, priorizando o desenvolvimento de infraestrutura ferroviária.
 
 Fortaleza tem a oportunidade de se tornar um exemplo nacional com a implementação de um ramal de VLT que liga o metrô ao aeroporto. Embora ainda seja um projeto em estudo, a iniciativa captura a essência de uma intervenção que não exige grandes obras, mas proporciona benefícios significativos para a mobilidade urbana. Conforme noticiado, <a href="https://clickpetroleoegas.com.br/fiol-ferrovia-1527-km-bahia-tocantins-530-bilhoes-ferrovias-lula-dezembro-2026-davila/" target="_blank">a criação de corredores ferroviários</a> é fundamental para o desenvolvimento do país.

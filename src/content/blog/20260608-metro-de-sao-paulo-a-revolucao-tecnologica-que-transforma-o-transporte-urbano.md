@@ -4,7 +4,7 @@ description: "Metrô de São Paulo: A Revolução Tecnológica que Transforma o 
 pubDate: "2026-06-08"
 heroImage: "/hero/metro-de-sao-paulo-a-revolucao-tecnologica-que-transforma-o-transporte-urbano.jpg"
 hero_credit: "Foto: Wikimedia Commons"
-hero_license: "CC-BY-SA (verificar)"
+hero_license: "cc-by-sa"
 alt: "Ilustração editorial sobre Metrô de São Paulo: A Revolução Tecnológica que Transforma o Transporte Urbano"
 source_name: "Arquitetura &#8211; Metrô, Modernização do metrô de São Paulo eleva padrões de segurança e eficiência - O Cafezinho, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP"
 source_url: "https://www.metro.sp.gov.br/pt_BR/tecnologia/arquitetura/"
