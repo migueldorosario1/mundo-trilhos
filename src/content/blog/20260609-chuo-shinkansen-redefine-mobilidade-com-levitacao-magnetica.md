@@ -1,5 +1,9 @@
 ---
 title: "Chuo Shinkansen redefine mobilidade com levitação magnética"
+heroImage: "/hero/chuo-shinkansen-redefine-mobilidade-com-levitacao-magnetica.png"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Chuo Shinkansen redefine mobilidade com levitação magnética"
 description: "Chuo Shinkansen redefine mobilidade com levitação magnética"
 pubDate: "2026-06-09"
 source_name: "Canada Wants High-Speed Rail. Megaproject Reality Wants a Word. - CleanTechnica, Trem que flutua a 600 km/h desafia rios e túneis, com investimento na casa dos R$ 305 bilhões em um projeto histórico - Terra Brasil Notícias, Le train à grande vitesse propulse un nouveau modèle urbain"

@@ -1,5 +1,9 @@
 ---
 title: "VLT de Brasília revoluciona transporte urbano com inovação elétrica"
+heroImage: "/hero/vlt-de-brasilia-revoluciona-transporte-urbano-com-inovacao-eletrica.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre VLT de Brasília revoluciona transporte urbano com inovação elétrica"
 description: "VLT de Brasília revoluciona transporte urbano com inovação elétrica"
 pubDate: "2026-06-07"
 source_name: "Brasília em trilhos: veja novo projeto do VLT entre a W3 e o aeroporto, Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil"

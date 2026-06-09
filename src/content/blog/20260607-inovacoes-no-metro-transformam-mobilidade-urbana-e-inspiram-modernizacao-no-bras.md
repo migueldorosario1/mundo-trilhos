@@ -1,5 +1,9 @@
 ---
 title: "Inovações no metrô transformam mobilidade urbana e inspiram modernização no Brasil"
+heroImage: "/hero/inovacoes-no-metro-transformam-mobilidade-urbana-e-inspiram-modernizacao-no-bras.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Inovações no metrô transformam mobilidade urbana e inspiram modernização no Brasil"
 description: "Inovações no metrô transformam mobilidade urbana e inspiram modernização no Brasil"
 pubDate: "2026-06-07"
 source_name: "Arquitetura &#8211; Metrô, Com novas estações, Metrô | Encontra Brasília, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP"

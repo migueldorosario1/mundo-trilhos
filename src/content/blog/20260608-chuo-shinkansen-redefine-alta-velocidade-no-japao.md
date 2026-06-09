@@ -1,5 +1,9 @@
 ---
 title: "Chuo Shinkansen redefine alta velocidade no Japão"
+heroImage: "/hero/chuo-shinkansen-redefine-alta-velocidade-no-japao.png"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Chuo Shinkansen redefine alta velocidade no Japão"
 description: "Chuo Shinkansen redefine alta velocidade no Japão"
 pubDate: "2026-06-08"
 source_name: "Canada Wants High-Speed Rail. Megaproject Reality Wants a Word. - CleanTechnica, Trem que flutua a 600 km/h desafia rios e túneis, com investimento na casa dos R$ 305 bilhões em um projeto histórico - Terra Brasil Notícias, 中国力量——走进中国大工程大项目︱京沪高铁：引领..."
