@@ -1,5 +1,9 @@
 ---
 title: "Expansão do metrô impulsiona modernização urbana no Brasil"
+heroImage: "/hero/expansao-do-metro-impulsiona-modernizacao-urbana-no-brasil.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Expansão do metrô impulsiona modernização urbana no Brasil"
 description: "Expansão do metrô impulsiona modernização urbana no Brasil"
 pubDate: "2026-06-07"
 source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Metrô de SP: o plano de R$ 5,4 bi em 2026 para expandir 3 linhas | Exame, ExpansÃ£o do metrÃ´ avanÃ§a, mas desafios de infraestrutura persistem"

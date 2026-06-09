@@ -1,5 +1,9 @@
 ---
 title: "Brasil investe em ferrovias para reinventar sua logística e competitividade"
+heroImage: "/hero/brasil-investe-em-ferrovias-para-reinventar-sua-logistica-e-competitividade.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil investe em ferrovias para reinventar sua logística e competitividade"
 description: "Brasil investe em ferrovias para reinventar sua logística e competitividade"
 pubDate: "2026-06-07"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil aposta R$ 100 bilhões em ferrovias para romper a armadilha logística que drena sua competitividade - O Cafezinho"

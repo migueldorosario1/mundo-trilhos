@@ -1,5 +1,9 @@
 ---
 title: "Titulo / editorial / texto"
+heroImage: "/hero/titulo-editorial-texto.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Titulo / editorial / texto"
 description: "Titulo / editorial / texto"
 pubDate: "2026-06-02"
 source_name: "Delivering Urban Light Rail Through Alternative Project Delivery - GFT, Le projet, VLT impulsiona transformação urbana e amplia espaços de esporte e lazer no Subúrbio Ferroviário | SECOM - Secretaria de Comunicação Social"

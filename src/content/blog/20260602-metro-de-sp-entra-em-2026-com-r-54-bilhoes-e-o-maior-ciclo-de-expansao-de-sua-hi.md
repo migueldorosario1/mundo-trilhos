@@ -1,5 +1,9 @@
 ---
 title: "Metrô de SP entra em 2026 com R$ 5,4 bilhões e o maior ciclo de expansão de sua história"
+heroImage: "/hero/metro-de-sp-entra-em-2026-com-r-54-bilhoes-e-o-maior-ciclo-de-expansao-de-sua-hi.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Metrô de SP entra em 2026 com R$ 5,4 bilhões e o maior ciclo de expansão de sua história"
 description: "Metrô de SP entra em 2026 com R$ 5,4 bilhões e o maior ciclo de expansão de sua história"
 pubDate: "2026-06-02"
 source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Metrô de SP: o plano de R$ 5,4 bi em 2026 para expandir 3 linhas | Exame, Orçamento 2026 para a expansão do Metrô cresce 12% e alcança R$ 5,4 bilhões em São Paulo"

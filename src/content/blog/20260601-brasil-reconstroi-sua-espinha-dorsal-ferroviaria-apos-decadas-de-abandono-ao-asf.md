@@ -1,5 +1,9 @@
 ---
 title: "Brasil reconstrói sua espinha dorsal ferroviária após décadas de abandono ao asfalto"
+heroImage: "/hero/brasil-reconstroi-sua-espinha-dorsal-ferroviaria-apos-decadas-de-abandono-ao-asf.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil reconstrói sua espinha dorsal ferroviária após décadas de abandono ao asfalto"
 description: "Brasil reconstrói sua espinha dorsal ferroviária após décadas de abandono ao asfalto"
 pubDate: "2026-06-01"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Quais são os Projetos de ferrovias no brasil em andamento? - MASSA"

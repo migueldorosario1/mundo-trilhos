@@ -1,5 +1,9 @@
 ---
 title: "Novo Centro de Controle Operacional do Metrô de São Paulo Revoluciona Transporte Urbano"
+heroImage: "/hero/novo-centro-de-controle-operacional-do-metro-de-sao-paulo-revoluciona-transporte.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Novo Centro de Controle Operacional do Metrô de São Paulo Revoluciona Transporte Urbano"
 description: "Novo Centro de Controle Operacional do Metrô de São Paulo Revoluciona Transporte Urbano"
 pubDate: "2026-06-02"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, Metrôs do futuro: 5 tecnologias que vão transformar sua viagem diária - Correio Braziliense - Aqui"

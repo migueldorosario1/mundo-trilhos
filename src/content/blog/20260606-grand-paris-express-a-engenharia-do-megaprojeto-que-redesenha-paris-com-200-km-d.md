@@ -1,9 +1,9 @@
 ---
 title: "Grand Paris Express: a engenharia do megaprojeto que redesenha Paris com 200 km de metrô automático"
-heroImage: "/images/tags/metro.png"
-hero_credit: "Acervo Mundo Trilhos"
-hero_license: "own"
-alt: "Imagem ilustrativa para a categoria metro do portal Mundo Trilhos"
+heroImage: "/hero/grand-paris-express-a-engenharia-do-megaprojeto-que-redesenha-paris-com-200-km-d.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Grand Paris Express: a engenharia do megaprojeto que redesenha Paris com 200 km de metrô automático"
 description: "Grand Paris Express: a engenharia do megaprojeto que redesenha Paris com 200 km de metrô automático"
 pubDate: "2026-06-06"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, Metrôs do futuro: 5 tecnologias que vão transformar sua viagem diária - Correio Braziliense - Aqui"

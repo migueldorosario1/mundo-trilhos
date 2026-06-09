@@ -1,9 +1,9 @@
 ---
 title: "O Potencial do VLT na Integração Urbana e Aeroportuária"
-heroImage: "/images/tags/vlt.png"
-hero_credit: "Acervo Mundo Trilhos"
-hero_license: "own"
-alt: "Imagem ilustrativa para a categoria vlt do portal Mundo Trilhos"
+heroImage: "/hero/o-potencial-do-vlt-na-integracao-urbana-e-aeroportuaria.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre O Potencial do VLT na Integração Urbana e Aeroportuária"
 description: "O Potencial do VLT na Integração Urbana e Aeroportuária"
 pubDate: "2026-06-01"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, FIOL: ferrovia de 1.527 km espera há décadas na Bahia"

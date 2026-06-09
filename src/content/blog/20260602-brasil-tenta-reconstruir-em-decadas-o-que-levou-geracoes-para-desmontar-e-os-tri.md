@@ -1,5 +1,9 @@
 ---
 title: "Brasil tenta reconstruir em décadas o que levou gerações para desmontar — e os trilhos voltam a cortar a Bahia"
+heroImage: "/hero/brasil-tenta-reconstruir-em-decadas-o-que-levou-geracoes-para-desmontar-e-os-tri.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil tenta reconstruir em décadas o que levou gerações para desmontar — e os trilhos voltam a cortar a Bahia"
 description: "Brasil tenta reconstruir em décadas o que levou gerações para desmontar — e os trilhos voltam a cortar a Bahia"
 pubDate: "2026-06-02"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Quais são os Projetos de ferrovias no brasil em andamento? - MASSA"

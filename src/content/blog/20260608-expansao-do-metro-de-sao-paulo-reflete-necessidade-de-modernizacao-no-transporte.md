@@ -1,5 +1,9 @@
 ---
 title: "Expansão do Metrô de São Paulo Reflete Necessidade de Modernização no Transporte Urbano Brasileiro"
+heroImage: "/hero/expansao-do-metro-de-sao-paulo-reflete-necessidade-de-modernizacao-no-transporte.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Expansão do Metrô de São Paulo Reflete Necessidade de Modernização no Transporte Urbano Brasileiro"
 description: "Expansão do Metrô de São Paulo Reflete Necessidade de Modernização no Transporte Urbano Brasileiro"
 pubDate: "2026-06-08"
 source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil aposta R$ 100 bilhões em ferrovias para romper a armadilha logística que drena sua competitividade - O Cafezinho, Metrô de SP entra em 2026 com R$ 5,4 bilhões e o maior ciclo de expansão de sua história - O Cafezinho"

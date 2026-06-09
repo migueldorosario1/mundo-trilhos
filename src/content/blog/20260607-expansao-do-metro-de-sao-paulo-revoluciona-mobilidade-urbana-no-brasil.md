@@ -1,5 +1,9 @@
 ---
 title: "Expansão do Metrô de São Paulo revoluciona mobilidade urbana no Brasil"
+heroImage: "/hero/expansao-do-metro-de-sao-paulo-revoluciona-mobilidade-urbana-no-brasil.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Expansão do Metrô de São Paulo revoluciona mobilidade urbana no Brasil"
 description: "Expansão do Metrô de São Paulo revoluciona mobilidade urbana no Brasil"
 pubDate: "2026-06-07"
 source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil aposta R$ 100 bilhões em ferrovias para romper a armadilha logística que drena sua competitividade - O Cafezinho, Metrô de SP entra em 2026 com R$ 5,4 bilhões e o maior ciclo de expansão de sua história - O Cafezinho"

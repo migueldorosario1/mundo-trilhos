@@ -1,5 +1,9 @@
 ---
 title: "Modernização Ferroviária: Transformação do Transporte de Cargas no Brasil e na Austrália"
+heroImage: "/hero/modernizacao-ferroviaria-transformacao-do-transporte-de-cargas-no-brasil-e-na-au.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Modernização Ferroviária: Transformação do Transporte de Cargas no Brasil e na Austrália"
 description: "Modernização Ferroviária: Transformação do Transporte de Cargas no Brasil e na Austrália"
 pubDate: "2026-06-07"
 source_name: "Australia’s $31B Inland Rail Megaproject That Could Change Freight, Ferrovia promete impulsionar o agro e a exploração mineral, Trains légers : cinq premiers projets sélectionnés dans le cadre du plan France 2030"

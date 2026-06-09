@@ -1,5 +1,9 @@
 ---
 title: "Brasil investe em ferrovias para impulsionar logística e desenvolvimento"
+heroImage: "/hero/brasil-investe-em-ferrovias-para-impulsionar-logistica-e-desenvolvimento.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil investe em ferrovias para impulsionar logística e desenvolvimento"
 description: "Brasil investe em ferrovias para impulsionar logística e desenvolvimento"
 pubDate: "2026-06-02"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Quais são os Projetos de ferrovias no brasil em andamento? - MASSA"

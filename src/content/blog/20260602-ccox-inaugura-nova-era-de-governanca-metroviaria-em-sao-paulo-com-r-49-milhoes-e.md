@@ -1,5 +1,9 @@
 ---
 title: "CCOx inaugura nova era de governança metroviária em São Paulo com R$ 49 milhões em tecnologia operacional"
+heroImage: "/hero/ccox-inaugura-nova-era-de-governanca-metroviaria-em-sao-paulo-com-r-49-milhoes-e.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre CCOx inaugura nova era de governança metroviária em São Paulo com R$ 49 milhões em tecnologia operacional"
 description: "CCOx inaugura nova era de governança metroviária em São Paulo com R$ 49 milhões em tecnologia operacional"
 pubDate: "2026-06-02"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, Metrôs do futuro: 5 tecnologias que vão transformar sua viagem diária - Correio Braziliense - Aqui"

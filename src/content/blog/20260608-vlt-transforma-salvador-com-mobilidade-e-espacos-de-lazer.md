@@ -1,5 +1,9 @@
 ---
 title: "VLT transforma Salvador com mobilidade e espaços de lazer"
+heroImage: "/hero/vlt-transforma-salvador-com-mobilidade-e-espacos-de-lazer.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre VLT transforma Salvador com mobilidade e espaços de lazer"
 description: "VLT transforma Salvador com mobilidade e espaços de lazer"
 pubDate: "2026-06-08"
 source_name: "Delivering Urban Light Rail Through Alternative Project Delivery - GFT, Le projet, VLT impulsiona transformação urbana e amplia espaços de esporte e lazer no Subúrbio Ferroviário | SECOM - Secretaria de Comunicação Social"

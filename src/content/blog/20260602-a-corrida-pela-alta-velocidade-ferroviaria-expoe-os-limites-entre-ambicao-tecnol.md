@@ -1,5 +1,9 @@
 ---
 title: "A corrida pela alta velocidade ferroviária expõe os limites entre ambição tecnológica e realidade econômica"
+heroImage: "/hero/a-corrida-pela-alta-velocidade-ferroviaria-expoe-os-limites-entre-ambicao-tecnol.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre A corrida pela alta velocidade ferroviária expõe os limites entre ambição tecnológica e realidade econômica"
 description: "A corrida pela alta velocidade ferroviária expõe os limites entre ambição tecnológica e realidade econômica"
 pubDate: "2026-06-02"
 source_name: "Canada Wants High-Speed Rail. Megaproject Reality Wants a Word. - CleanTechnica, Trem que flutua a 600 km/h desafia rios e túneis, com investimento na casa dos R$ 305 bilhões em um projeto histórico - Terra Brasil Notícias, Vietnam’s $67BN Gamble on High-Speed Rail"

@@ -1,9 +1,9 @@
 ---
 title: "Maglev japonês desafia limites enquanto Canadá enfrenta barreiras em projetos de alta velocidade"
-heroImage: "/images/tags/default.png"
-hero_credit: "Acervo Mundo Trilhos"
-hero_license: "own"
-alt: "Imagem ilustrativa para a categoria infraestrutura do portal Mundo Trilhos"
+heroImage: "/hero/maglev-japones-desafia-limites-enquanto-canada-enfrenta-barreiras-em-projetos-de.png"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Maglev japonês desafia limites enquanto Canadá enfrenta barreiras em projetos de alta velocidade"
 description: "Maglev japonês desafia limites enquanto Canadá enfrenta barreiras em projetos de alta velocidade"
 pubDate: "2026-06-07"
 source_name: "Canada Wants High-Speed Rail. Megaproject Reality Wants a Word. - CleanTechnica, Japão surpreende o MUNDO ao investir US$ 64 bilhões e apostar em tecnologia pioneira de levitação magnética em Megaprojeto de trem capaz de alcançar 603 km/h - CPG Click Petróleo e Gás, High-speed rail and AI: Transforming US infrastructure | Siemens"

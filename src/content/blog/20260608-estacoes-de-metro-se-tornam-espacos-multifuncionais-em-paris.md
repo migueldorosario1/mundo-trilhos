@@ -1,5 +1,9 @@
 ---
 title: "Estações de Metrô se Tornam Espaços Multifuncionais em Paris"
+heroImage: "/hero/estacoes-de-metro-se-tornam-espacos-multifuncionais-em-paris.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Estações de Metrô se Tornam Espaços Multifuncionais em Paris"
 description: "Estações de Metrô se Tornam Espaços Multifuncionais em Paris"
 pubDate: "2026-06-08"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, The $45BN Megaproject That Will Forever Change Paris"

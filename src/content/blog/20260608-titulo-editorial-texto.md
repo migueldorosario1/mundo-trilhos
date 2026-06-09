@@ -1,5 +1,9 @@
 ---
 title: "Titulo / editorial / texto"
+heroImage: "/hero/titulo-editorial-texto.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Titulo / editorial / texto"
 description: "Titulo / editorial / texto"
 pubDate: "2026-06-08"
 source_name: "Australia’s $31B Inland Rail Megaproject That Could Change Freight, Ferrovia promete impulsionar o agro e a exploração mineral, Trains légers : cinq premiers projets sélectionnés dans le cadre du plan France 2030"

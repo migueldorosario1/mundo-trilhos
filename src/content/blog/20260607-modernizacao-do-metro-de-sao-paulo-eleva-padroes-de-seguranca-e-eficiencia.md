@@ -1,5 +1,9 @@
 ---
 title: "Modernização do Metrô de São Paulo Eleva Padrões de Segurança e Eficiência"
+heroImage: "/hero/modernizacao-do-metro-de-sao-paulo-eleva-padroes-de-seguranca-e-eficiencia.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Modernização do Metrô de São Paulo Eleva Padrões de Segurança e Eficiência"
 description: "Modernização do Metrô de São Paulo Eleva Padrões de Segurança e Eficiência"
 pubDate: "2026-06-07"
 source_name: "Arquitetura &#8211; Metrô, SP inaugura Centro de Controle Operacional do Metrô com inovações tecnológicas e segurança integrada - Agência SP, Metrôs do futuro: 5 tecnologias que vão transformar sua viagem diária - Correio Braziliense - Aqui"

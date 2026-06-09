@@ -1,5 +1,9 @@
 ---
 title: "Brasil investe R$ 100 bilhões em ferrovias para impulsionar desenvolvimento econômico"
+heroImage: "/hero/brasil-investe-r-100-bilhoes-em-ferrovias-para-impulsionar-desenvolvimento-econo.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil investe R$ 100 bilhões em ferrovias para impulsionar desenvolvimento econômico"
 description: "Brasil investe R$ 100 bilhões em ferrovias para impulsionar desenvolvimento econômico"
 pubDate: "2026-06-08"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil aposta R$ 100 bilhões em ferrovias para romper a armadilha logística que drena sua competitividade - O Cafezinho"

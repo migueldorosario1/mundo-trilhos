@@ -1,5 +1,9 @@
 ---
 title: "Brasil reconecta seus trilhos ao futuro com R$ 194 bilhões em ferrovias e aposta na soberania logística"
+heroImage: "/hero/brasil-reconecta-seus-trilhos-ao-futuro-com-r-194-bilhoes-em-ferrovias-e-aposta-.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre Brasil reconecta seus trilhos ao futuro com R$ 194 bilhões em ferrovias e aposta na soberania logística"
 description: "Brasil reconecta seus trilhos ao futuro com R$ 194 bilhões em ferrovias e aposta na soberania logística"
 pubDate: "2026-06-02"
 source_name: "Novo PAC garante recursos para fortalecer transporte ferroviário no Brasil — Agência Gov, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Estudos e Projetos Ferroviários - INFRA S.A."

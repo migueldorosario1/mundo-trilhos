@@ -1,5 +1,9 @@
 ---
 title: "VLT Transforma Mobilidade e Revitaliza Subúrbio Ferroviário de Salvador"
+heroImage: "/hero/vlt-transforma-mobilidade-e-revitaliza-suburbio-ferroviario-de-salvador.jpg"
+hero_credit: "Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia sobre VLT Transforma Mobilidade e Revitaliza Subúrbio Ferroviário de Salvador"
 description: "VLT Transforma Mobilidade e Revitaliza Subúrbio Ferroviário de Salvador"
 pubDate: "2026-06-08"
 source_name: "Delivering Urban Light Rail Through Alternative Project Delivery - GFT, Le projet, VLT impulsiona transformação urbana e amplia espaços de esporte e lazer no Subúrbio Ferroviário | SECOM - Secretaria de Comunicação Social"
