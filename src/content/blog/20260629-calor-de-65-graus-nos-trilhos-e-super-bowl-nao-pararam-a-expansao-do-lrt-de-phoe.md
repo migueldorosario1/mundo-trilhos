@@ -4,7 +4,7 @@ description: "Calor de 65 graus nos trilhos e Super Bowl não pararam a expansã
 pubDate: "2026-06-29"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/metro-subway/calor-de-65-graus-nos-trilhos-e-super-bowl-nao-pararam-a-expansao-do-lrt-de-phoe.jpg"
 hero_credit: "Foto: Wikimedia Commons"
-hero_license: "CC-BY-SA (verificar)"
+hero_license: "cc-by-sa"
 alt: "Fotografia documental sobre Calor de 65 graus nos trilhos e Super Bowl não pararam a expansão do LRT de Phoenix"
 source_name: "ISCTE transforma o Metro de Lisboa num laboratório vivo de inovação urbana - Lisboa 2030, Meeting a Mega Project’s Mega Challenges: Valley Metro’s South Central Extension / Downtown Hub | Passenger Transport, Infrastructure Projects | Metro Transit – Saint Louis"
 source_url: "https://lisboa.portugal2030.pt/2025/11/04/iscte-transforma-o-metro-de-lisboa-num-laboratorio-vivo-de-inovacao-urbana/"
