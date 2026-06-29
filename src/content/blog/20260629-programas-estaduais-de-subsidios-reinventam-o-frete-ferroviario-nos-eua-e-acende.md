@@ -4,7 +4,7 @@ description: "Programas estaduais de subsídios reinventam o frete ferroviário 
 pubDate: "2026-06-29"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/carga-freight-rail/programas-estaduais-de-subsidios-reinventam-o-frete-ferroviario-nos-eua-e-acende.jpg"
 hero_credit: "Foto: Wikimedia Commons"
-hero_license: "CC-BY-SA (verificar)"
+hero_license: "cc-by-sa"
 alt: "Fotografia documental sobre Programas estaduais de subsídios reinventam o frete ferroviário nos EUA e acendem alerta para o Brasil"
 source_name: "These Three States Are Prioritizing Freight Rail | GoRail, Funding the Future of Rail: Innovative Tools and Partnerships Driving Rail Development &mdash; Regional Infrastructure Accelerator, O projeto Nova Ferroeste e a atualização dos ramais ferroviários"
 source_url: "https://gorail.org/funding-opportunities/these-three-states-are-prioritizing-freight-rail"

@@ -4,7 +4,7 @@ description: "Ferrovia privada da Arauco rompe imobilismo e expõe o paradoxo bi
 pubDate: "2026-06-29"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/carga-freight-rail/ferrovia-privada-da-arauco-rompe-imobilismo-e-expoe-o-paradoxo-bilionario-dos-tr.jpg"
 hero_credit: "Foto: Wikimedia Commons"
-hero_license: "CC-BY-SA (verificar)"
+hero_license: "cc-by-sa"
 alt: "Fotografia documental sobre Ferrovia privada da Arauco rompe imobilismo e expõe o paradoxo bilionário dos trilhos no Brasil"
 source_name: "Brasil tenta, de novo, expandir as ferrovias. Mas ainda falta combinar com os chineses, Após cinco anos, primeira ferrovia por autorização começa a sair do papel | CNN Brasil, Ferrovia para ligar o Atlântico ao Pacífico: veja o que se sabe até agora do projeto do Brasil com a China | G1"
 source_url: "https://investnews.com.br/negocios/brasil-tenta-de-novo-expandir-as-ferrovias-mas-ainda-falta-combinar-com-os-chineses/"
