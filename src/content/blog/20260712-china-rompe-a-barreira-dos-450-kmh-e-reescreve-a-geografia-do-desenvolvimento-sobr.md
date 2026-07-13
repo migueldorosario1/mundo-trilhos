@@ -1,11 +1,11 @@
 ---
-title: "China rompe a barria dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
-description: "China rompe a barria dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
+title: "China rompe a barreira dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
+description: "China rompe a barreira dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
 pubDate: "2026-07-12"
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/infraestrutura-infrastructure/china-rompe-a-barria-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr.jpg"
 hero_credit: "Foto: Wikimedia Commons"
 hero_license: "cc-by-sa"
-alt: "Fotografia documental sobre China rompe a barria dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
+alt: "Fotografia documental sobre China rompe a barreira dos 450 km/h e reescreve a geografia do desenvolvimento sobre trilhos"
 source_name: "Cascadia High-Speed Rail | WSDOT, Top 6 des innovations en matière de technologie ferroviaire - KnowHow, Kalifornien will eine Hochgeschwindigkeitszug-Strecke bauen - DER SPIEGEL"
 source_url: "https://wsdot.wa.gov/construction-planning/search-studies/cascadia-high-speed-rail"
 tags: ["infraestrutura", "brasil"]
