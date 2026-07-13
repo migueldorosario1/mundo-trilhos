@@ -7,6 +7,10 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://mundotrilhos.com',
+	redirects: {
+		'/blog/20260712-china-rompe-a-barria-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr/': '/blog/20260712-china-rompe-a-barreira-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr/',
+		'/blog/20260712-china-rompe-a-barria-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr': '/blog/20260712-china-rompe-a-barreira-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr',
+	},
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
