@@ -1,0 +1,51 @@
+---
+title: "Brasil precisa dobrar metrô e quadruplicar BRTs e VLTs até 2054, aponta estudo do BNDES"
+description: "Brasil precisa dobrar metrô e quadruplicar BRTs e VLTs até 2054, aponta estudo do BNDES"
+pubDate: "2026-07-15"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/metro-subway/brasil-precisa-dobrar-metro-e-quadruplicar-brts-e-vlts-ate-2054-aponta-estudo-do.jpg"
+hero_credit: "Foto: Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Fotografia documental sobre Brasil precisa dobrar metrô e quadruplicar BRTs e VLTs até 2054, aponta estudo do BNDES"
+source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil nos trilhos do desenvolvimento: ANTT viabiliza primeira autorização ferroviária que sai do papel e impulsiona nova fase da logística nacional — Agência Nacional de Transportes Terrestres - ANTT, SP anuncia mais de R$ 50 bi para expansão do Metrô - Times Brasil | CNBC"
+source_url: "https://www.cnnbrasil.com.br/economia/macroeconomia/com-investimento-de-r-100-bi-governo-lancara-plano-nacional-de-ferrovias/"
+tags: ["infraestrutura", "brasil"]
+categoria_macro: "metro"
+lang: "pt-br"
+author: "Redação Mundo Trilhos"
+draft: false
+---
+O Brasil enfrenta o desafio de modernizar seu sistema de transporte público, com foco em metrôs, VLTs e BRTs, para atender à crescente demanda urbana. Investimentos estratégicos e planejamento cuidadoso são essenciais para transformar a mobilidade urbana e promover um futuro mais sustentável e eficiente.
+
+A modernidade não é abstrata. Ela tem lastro, bitola, energia e direção. No Brasil, a expansão e modernização do transporte público, especialmente por meio de metrôs, Veículos Leves sobre Trilhos (VLTs) e Bus Rapid Transit (BRTs), são essenciais para impulsionar o desenvolvimento urbano e a qualidade de vida dos cidadãos. Um estudo recente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) destaca que o país precisa dobrar a rede de metrô e quadruplicar as redes de BRTs e VLTs até 2054, com investimentos estimados em R$ 500 bilhões.
+
+O governo brasileiro planeja expandir a rede de metrôs em 323 km, enquanto a rede de BRTs e VLTs deve crescer de 631 km para 2,5 mil km. Esses números refletem a necessidade urgente de melhorar a infraestrutura de transporte público, que tem sofrido com a queda de 43% no número de passageiros desde 2014, devido principalmente à migração para meios de transporte individuais.
+
+Segundo o superintendente da Área de Infraestrutura do BNDES, Felipe Borim, a mobilização de recursos é crucial para enfrentar a escassez e a dificuldade de implementação desses projetos. Em um encontro recente, Borim destacou que soluções mais baratas, como o BRT, têm se mostrado importantes, embora menos eficientes que os transportes sobre trilhos. O custo de implementação do BRT está na casa de R$ 50 milhões por quilômetro, enquanto o metrô pode chegar a R$ 1 bilhão por quilômetro.
+
+O Plano Nacional de Ferrovias, que depende apenas de ajustes finais para ser lançado, prevê a concessão de cinco grandes projetos de estradas de ferro à iniciativa privada, totalizando quase cinco mil quilômetros de novas ferrovias e um investimento previsto de aproximadamente R$ 100 bilhões. O plano foi apresentado ao presidente Luiz Inácio Lula da Silva (PT) pelo ministro dos Transportes, Renan Filho, que prevê o lançamento da iniciativa ainda em fevereiro.
+
+O projeto inclui a expansão da Ferrovia de Integração Oeste-Leste (Fiol) e da Ferrovia de Integração do Centro-Oeste (Fico), o prolongamento da Ferrovia Norte-Sul, o Anel Ferroviário do Sudeste, a Transnordestina e a Ferrogrão. Esses projetos visam melhorar a logística nacional, reduzir o tráfego de caminhões nas rodovias e promover a competitividade do Brasil no mercado internacional.
+
+No estado de São Paulo, o governo anunciou um aporte de R$ 57 bilhões para expandir a rede metroviária em cerca de 50 km, somados a R$ 14 bilhões voltados para 22 km de malha ferroviária. O cronograma envolve obras simultâneas nas linhas 2-Verde, 4-Amarela, 6-Laranja, 15-Prata, 17-Ouro, 11-Coral, 12-Safira e 13-Jade. O projeto, que resultará em 72 km adicionais de transporte sobre trilhos, contempla a inédita extensão da Linha 4-Amarela para fora da capital, algo nunca antes realizado na história do sistema.
+
+A Linha 2-Verde do Metrô SP, conhecida como “Linha da Paulista” por passar pela Avenida Paulista, está sendo expandida até a Penha (Zona Leste). Já a Linha 15-Prata, um monotrilho, conecta a Zona Leste à Vila Prudente, com expansões futuras previstas para Ipiranga, Boa Esperança e Jacu Pêssego. A Linha 6-Laranja, uma nova linha subterrânea em construção, ligará a Zona Norte (Brasilândia) ao Centro (São Joaquim) e está prevista para iniciar operação parcial em outubro de 2026 e operação total em 2027.
+
+O governador Tarcísio de Freitas (Republicanos) promulgou, nesta segunda-feira (15), a lei que autoriza o Estado a contrair empréstimos de até US$ 425 milhões, destinados à expansão das Linhas 2-Verde e 6-Laranja do metrô. O projeto de ampliação abrange bairros do centro expandido e da zona leste da capital paulista, como Aclimação, Mooca e Penha, além de prever a extensão da operação até o município de Guarulhos.
+
+A Agência Nacional de Transportes Terrestres (ANTT) também desempenha um papel fundamental nesse processo. Nesta sexta-feira (6/2), em Inocência (MS), o Diretor-Geral da ANTT, Guilherme Theo Sampaio, participou do lançamento da pedra fundamental de um novo trecho ferroviário, a primeira autorização ferroviária concedida pela ANTT que efetivamente entra em fase de obras. Com 47 quilômetros de extensão, o ramal ferroviário no modelo short line vai conectar a futura fábrica da Arauco, que será a maior indústria de celulose do mundo, à malha ferroviária nacional.
+
+Essa nova fase da ferrovia brasileira ganha força no Sudeste. Na próxima segunda-feira (9/2), em Sete Lagoas (MG), será realizado o evento de entrega de oito novas locomotivas adquiridas pela VLI junto à Progress Rail, empresa do grupo Caterpillar. O investimento total chega a R$ 700 milhões, somando aquisição e contratos de manutenção. As locomotivas, projetadas especialmente para as ferrovias brasileiras, vão operar na Ferrovia Centro-Atlâtica (FCA), atendendo setores essenciais como o agronegócio e a siderurgia.
+
+A presença da ANTT nesses dois marcos, o início da construção da ferrovia no Centro-Oeste e o fortalecimento da frota ferroviária no Sudeste, traduz, de forma simples e direta, o papel da Agência: regular, fiscalizar e viabilizar soluções que impactam a vida real das pessoas, promovendo o desenvolvimento socioeconômico do país. Esse trabalho garante segurança jurídica, equilíbrio regulatório e foco no interesse público, permitindo que a ANTT ajude o Brasil a avançar com responsabilidade, previsibilidade e visão de futuro.
+
+Infraestrutura não é apenas trilho, locomotiva ou obra. É desenvolvimento que chega, emprego que se cria, produto que circula e qualidade de vida que melhora. "Porque, no fim das contas, infraestrutura é feita por pessoas, para pessoas e é assim que o Brasil segue avançando, literalmente, nos trilhos do desenvolvimento," concluiu o Diretor-Geral da ANTT, Guilherme Theo Sampaio.
+
+O estudo do BNDES mapeou 194 projetos de transporte público coletivo de média ou alta capacidade e apontou que o Brasil precisa dobrar o tamanho do sistema de metrô e quadruplicar o de BRT e VLT nas próximas décadas. O plano está sendo construído com o Ministério das Cidades e prevê investimentos de até R$ 500 bilhões até 2054 — trinta anos após o levantamento ter sido iniciado. De acordo com o levantamento, a rede base de metrô do Brasil (aquela já construída somada ao que está em fase de implementação) chega a 376 quilômetros. O acréscimo previsto pelo plano é de mais 323 quilômetros. Já a de BRT, VLT ou monotrilho — categorias que são aglutinadas no estudo — cresceria de 631 para 2,5 mil quilômetros.
+
+A Associação Nacional das Empresas de Transportes Urbanos cita que os coletivos tiveram uma queda de 44,1% no número de passageiros transportados nos últimos dez anos. Isso equivale a cerca de 19,1 milhões de viagens a menos por dia entre 2014 e 2023. Na pandemia, a demanda chegou a cair até 80% no pico, em março de 2020. Até meados de 2023, o total de usuários seguia cerca de 15% abaixo do patamar pré-pandemia, indicando uma demanda perdida que migrou para outros modais, como carro próprio, moto ou aplicativos.
+
+A quantidade de pessoas atendidas pelos modais de alta e média capacidade pode crescer até 501% — como no caso de Fortaleza — caso a rede futura seja efetivamente implementada, com um cenário otimizado sendo construído. Hoje a capital cearense atende 213 mil pessoas nesses modais, mas saltaria para 1,2 milhão. Este cenário mais otimista depende de quatro fatores: implementação de tarifa que comprometa no máximo 6% da renda média dos trabalhadores; a integração de diferentes modais numa tarifa única ou reduzida; políticas de desincentivo a carros, como restrição de circulação em algumas áreas e redução de vagas de estacionamento; e a prioridade desses transportes coletivos no trânsito com prioridade semafórica e redução dos pontos de retenção, por exemplo.
+
+Com isso, o transporte público coletivo de média ou alta capacidade no Rio, por exemplo, poderia passar de 1,6 milhão de usuários para 5,9 milhões — um acréscimo de 270%. Em São Paulo, o aumento seria de 68%, de 8,9 milhões para 15 milhões de pessoas atendidas. Os projetos têm diversos graus de maturidade, e a expectativa, segundo Borim, é que a lista final seja divulgada em alguns meses. "Os projetos têm diversos graus de maturidade. Pode ser que encontremos alguns mais maduros e eventualmente já comecem as obras no ano que vem. Só depois dessa análise terminar a gente consegue dizer isso com certeza," esclarece o representante do BNDES.
+
+O desafio de modernizar e expandir o sistema de transporte público no Brasil é complexo, mas essencial para o desenvolvimento urbano e a qualidade de vida dos cidadãos. Com investimentos estratégicos e planejamento cuidadoso, o país pode avançar significativamente nos próximos anos, transformando a mobilidade urbana e promovendo um futuro mais sustentável e eficiente.
